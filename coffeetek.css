@@ -74,7 +74,7 @@ li a{
 }
 /* Hero section */
 .hero-section{
-    background: url(images/Hero.jpg);
+    background: url(Hero.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
@@ -576,4 +576,5 @@ li a{
 .reveal.visible{
     opacity: 1;
     transform: translateY(0);
+
 }
